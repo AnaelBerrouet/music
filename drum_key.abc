@@ -1,0 +1,14 @@
+X:1
+T:Drum Key
+L:1/4
+K:C clef=perc style=rythm
+V:1 stem=up
+| !style=x![a] !style=x![g] !style=harmonic![g] !style=x![f] !open!!style=x![f] | 
+w:Crash Ride Ride~bell Hi\-hat~(HH) Open~HH 
+| !style=x![B,] !+!!style=x![B,] D A d e |
+w:HH~(foot) HH~(foot~close) Kick Floor~tom Rack~tom~2 Rack~tom~1
+| c !>!c  "<(" ">)"c !style=x!c|
+w: Snare Snare~(accent) Snare~(ghosted) Rim~click
+|{/c}c Rc ("^n"Rc c) 
+w:Flam Buzz N\-stroke~roll
+|
