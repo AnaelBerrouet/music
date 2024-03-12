@@ -1,0 +1,16 @@
+X:1
+T:11/04/2024
+L:1
+M:4/4
+K:C clef=perc style=rythm
+V:1 stem=up
+| !+![!style=x!e/16D/16!style=x!B,/16]!style=x![e/16][!style=x!e/8D/8] [!style=x!e/16!>!c/16]!style=x![e/16][!style=x!e/16D/16]"<("">)"c/16 [!style=x!e/8D/8]!style=x!e/16!open![!style=x!e/8D/8] !style=x!e/16!open![!style=x!e/8D/8] |
+T:Variation 1
+M:4/4
+| [!style=x!e/16D/16]!style=x![e/16][!style=x!e/8D/8] [!style=x!e/16!>!c/16]!style=x![e/16][!style=x!e/16D/16]"<("">)"c/16 [!style=x!e/8D/8]!style=x!e/16!open![!style=x!e/8D/8] !style=x!e/16!open![!style=x!e/16D/16]!+![!style=x!e/16!style=x!B,/16] |
+T:Variation 2
+| !+![!style=x!e/16!style=x!B,/16]!style=x![e/16][!style=x!e/8D/8] [!style=x!e/16!>!c/16]!style=x![e/16][!style=x!e/8D/8] !>!c/16[!style=x!e/8D/8]!style=x!e/16 !open![!style=x!e/8D/8]!+![!style=x!e/16!style=x!B,/16]!open![!style=x!e/16D/16] |
+T:Variation 3
+M: 4/4
+| !+![!style=x!e/16!style=x!B,/16]!style=x![e/16][!style=x!e/8D/8] [!style=x!e/16!>!c/16]!style=x![e/16][!style=x!e/8D/8] !>!c/16[!style=x!e/16D/16]"<("">)"c/16!style=x!e/16 !open![!style=x!e/8D/8]!+![!style=x!e/16!style=x!B,/16]!open![!style=x!e/16D/16] |
+T:Variation 4
